@@ -1,0 +1,2 @@
+import Config
+config :ex_gram, token: "123456789:a_long_string_in_base64"
